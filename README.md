@@ -1,5 +1,7 @@
 # NYC Movie Theaters
 
+[Link to the full Tumblr](https://nycmovietheaters.tumblr.com)!
+
 A project to discover and rebuild the theatrical experience in the wake of COVID-19.
 
 ## Table of Contents
@@ -47,3 +49,8 @@ This page will visit newly reopened theaters every week and update with photos a
 
 ### Link to Each Theater
 [See the Tumblr](https://nycmovietheaters.tumblr.com) for full details and photos of each theater.
+
+### Other Resources
+
+[Screenslate](https://screenslate.com)
+The predominant guide to seeing arthouse and repertory New York cinema. Home of the most inclusive list of current and former [movie venues in New York](https://screenslate.com/venues).
