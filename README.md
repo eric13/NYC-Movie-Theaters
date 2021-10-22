@@ -32,7 +32,8 @@ A list of every arthouse, cinema, and neighborhood movie theater in New York Cit
 1. Stuart Cafe & Cinema [🎟](https://stuartcinema.com) [💌](https://lp.constantcontactpages.com/su/fUgR8G2)
 1. Cinépolis Chelsea [🎟](https://cinepolisusa.com/locations/chelsea)
 1. The Roxy Cinema [🎟](https://roxycinematribeca.com) [💌](https://roxycinematribeca.com)
-1. Alamo Drafthouse NYC [🎟](https://drafthouse.com/nyc#now-playing) [💌](https://drafthouse.com/victory)
+1. Alamo Drafthouse - Downtown Brooklyn [🎟](https://drafthouse.com/nyc#now-playing) [💌](https://drafthouse.com/victory)
+1. Alamo Drafthouse - Lower Manhattan [🎟](https://drafthouse.com/nyc#now-playing) [💌](https://drafthouse.com/victory)
 1. BAM [🎟](https://www.bam.org/#Film)
 1. Cinema Village [🎟](https://cinemavillage.com/showtimes)
 1. Alpine Cinema [🎟](https://alpinecinemas.com/showtimes)
@@ -45,7 +46,7 @@ This page will visit newly reopened theaters every week and update with photos a
 
 ### Map of All Theaters
 
-🗺 [Map of New York City Cinemas](https://guides.apple.com/?ug=CghGaWxtIE5ZQxINCK5NEI6Q5savueS9bxINCK5NEJvHiLyC%2FJ2ARBIOCK5NEMTl0LaHw4HeqwESDgiuTRD8jOCfnrC0%2BN8BEg4Irk0QvJf9z4vh1t%2BcARIOCK5NEIX51v2YyOeJgQESDgiuTRD%2F1Nju6IzP5bUBEg4Irk0QiO2tj9Tg8pzFARINCK5NEKvyivLSu%2FSVFhINCK5NEOjp7sbQ%2BbeFThIOCK5NEPiT2M6dsODH2AESDgiuTRCzm%2BbY6NmUk9YBEg0Irk0Q%2FrLAg9%2BmsOoUEg4Irk0QqIuDvub6ocDgARIOCK5NEKCHpZivsbHDjAESDQiuTRD61ZH3tbbIxyESDgiuTRDdndDhvpD937UBEg4Irk0Q1de%2BtbC8wu6JARINCK5NEKSI5bnf6qrxOhIOCK5NEL6u6rXCpdW4tQESDQiuTRCbmY7jqt2ajWwSDQiuTRCPsenDwaDs9XASDgiuTRDss%2BjEgsC8pbEBEg0Irk0Qo8WPjbSuhIN8Eg0Irk0Q1ov59KzO0tJlEg4Irk0QiNKM1KPFw7PNARIOCK5NEN%2Boucb22vCf9QESDgiuTRD778rhpIGRhsIB)
+🗺 [Map of New York City Cinemas](https://guides.apple.com/?ug=CghGaWxtIE5ZQxINCK5NEI6Q5savueS9bxIOCK5NELeqt+22o83W/AESDQiuTRCbx4i8gvydgEQSDgiuTRDE5dC2h8OB3qsBEg4Irk0Q/Izgn56wtPjfARIOCK5NELyX/c+L4dbfnAESDgiuTRCF+db9mMjniYEBEg4Irk0Q/9TY7uiMz+W1ARIOCK5NEIjtrY/U4PKcxQESDQiuTRCr8ory0rv0lRYSDQiuTRDo6e7G0Pm3hU4SDgiuTRD4k9jOnbDgx9gBEg4Irk0Qs5vm2OjZlJPWARINCK5NEP6ywIPfprDqFBIOCK5NEKiLg77m+qHA4AESDgiuTRCgh6WYr7Gxw4wBEg0Irk0Q+tWR97W2yMchEg4Irk0Q3Z3Q4b6Q/d+1ARINCK5NEO6nr9GHhZ/+QBIOCK5NENXXvrWwvMLuiQESDQiuTRCkiOW53+qq8ToSDgiuTRC+ruq1wqXVuLUBEg0Irk0Qm5mO46rdmo1sEg0Irk0Qj7Hpw8Gg7PVwEg4Irk0Q7LPoxILAvKWxARINCK5NEKPFj420roSDfBINCK5NENaL+fSsztLSZRIOCK5NEIjSjNSjxcOzzQESDgiuTRDfqLnG9trwn/UBEg4Irk0Q++/K4aSBkYbCAQ==)
 
 ### Link to Each Theater
 [See the Tumblr](https://nycmovietheaters.tumblr.com) for full details and photos of each theater.
